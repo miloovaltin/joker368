@@ -1,16 +1,16 @@
 {
-"name": "joker368",
-"theme": "joker368",
-"version": "3.6.10",
-"description": "joker368 ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง ไม่ผ่านเอเย่นต์ รับเครดิตฟรี",
-"keywords": [
-"joker368",
-"joker368 เครดิตฟรี",
-"joker368 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/joker368",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "joker368",
+  "theme": "joker368",
+  "version": "3.7.0",
+  "description": "joker368 ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง ไม่ผ่านเอเย่นต์ รับเครดิตฟรี",
+  "keywords": [
+    "joker368",
+    "joker368 เครดิตฟรี",
+    "joker368 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/joker368",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
